@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sebs Blog</title>
+    <title>NEOBLOG</title>
     <link>http://sebastbake.github.io/</link>
-    <description>Recent content on Sebs Blog</description>
+    <description>Recent content on NEOBLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2018 Sebastian Baker</copyright>
+    <lastBuildDate>Wed, 25 Apr 2018 13:18:21 +1000</lastBuildDate>
     
 	<atom:link href="http://sebastbake.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading list</title>
+      <link>http://sebastbake.github.io/reading-list/</link>
+      <pubDate>Wed, 25 Apr 2018 13:18:21 +1000</pubDate>
+      
+      <guid>http://sebastbake.github.io/reading-list/</guid>
+      <description>Books which were read, are being read, and some books&amp;hellip; that have not yet come to be read.
+Would Like to Read:  Clean Architecture by Robert C Martin Programming Phoenix by Chris McCord, Bruce Tate, and José Valim You Don&amp;rsquo;t Know JS by Kyle Simpson Enterprise application architecture by Martin fowler Untitled Sci-Fi Book by Christopher Paolini Programming Pheonix by Chris McCord, Bruce Tate, and José Valim  Recommended:  HTML &amp;amp; CSS by Jon Duckett</description>
+    </item>
     
   </channel>
 </rss>

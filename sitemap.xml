@@ -3,13 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sebastbake.github.io/reading-list/</loc>
+    <lastmod>2018-04-25T13:18:21+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sebastbake.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sebastbake.github.io/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://sebastbake.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://sebastbake.github.io/</loc>
+    <lastmod>2018-04-25T13:18:21+10:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sebastbake.github.io/search/</loc>
   </url>
   
   <url>
