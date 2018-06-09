@@ -1,6 +1,4 @@
-html {
-  font-size: 1em;
-}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", "Noto Sans Japanese", "ヒラギノ角ゴ ProN W3", Meiryo, sans-serif;
   color: #444444;
@@ -73,11 +71,9 @@ blockquote blockquote blockquote blockquote {
 .site-title {
   -webkit-flex-grow: 1;
   flex-grow: 1;
-  font-size: 2rem;
   margin: 0;
   margin-top: 10px;
   padding: 0;
-  font-weight: normal;
 }
 .site-navi-items {
   -webkit-flex-grow: 0;
@@ -90,7 +86,6 @@ blockquote blockquote blockquote blockquote {
   justify-content: flex-end;
   flex-wrap: wrap;
   align-items: flex-end;
-  font-size: 1.2em;
   list-style-type: none;
   margin: 0;
   margin-top: 10px;
@@ -114,7 +109,6 @@ blockquote blockquote blockquote blockquote {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
-  font-size: 1.6em;
 }
 
 /* Code highlight */
@@ -301,13 +295,11 @@ blockquote blockquote blockquote blockquote {
 
 /* About */
 .about {
-  text-align: center;
 }
 .author {
+  text-align: center;
 }
 .author-name {
-  font-size: 1.2em;
-  font-weight: bold;
   margin-bottom: 10px;
 }
 .author-avatar-wrapper {
@@ -317,17 +309,16 @@ blockquote blockquote blockquote blockquote {
   width:158px;
   height:158px;
   border-radius: 50%;
-  border: solid 1px lightgray;
+  display: inline-block;
 }
 .author-avatar {
   width:150px;
   height:150px;
   margin: 4px;
   border-radius: 50%;
-  background-color: lightgray;
-  background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
+  display: inline-block;
 }
 .author-social {
   list-style-type: none;
@@ -340,7 +331,6 @@ blockquote blockquote blockquote blockquote {
   flex-wrap: wrap;
 }
 .author-social li {
-  font-size: 1.5em;
   margin-left: 6px;
   margin-right: 6px;
 }
@@ -349,17 +339,6 @@ blockquote blockquote blockquote blockquote {
 }
 .author-social a:hover, .author-social a:active {
   color: gray;
-}
-.about ul:not(.author-social)  {
-  margin-left: auto;
-  margin-right: auto;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  -webkit-align-items: center;
-  align-items: center;
-  padding: 0;
 }
 
 /* List page */
@@ -402,7 +381,6 @@ blockquote blockquote blockquote blockquote {
   margin-right: auto;
   margin-top: 70px;
   margin-bottom: 20px;
-  font-size: 0.8rem;
   display: -webkit-flex;
   display: flex;
   -webkit-align-items: baseline;
@@ -432,7 +410,6 @@ blockquote blockquote blockquote blockquote {
   flex-wrap: wrap;
 }
 .site-footer-items li {
-  font-size: 0.8rem;
   margin: 0 4px 0 4px;
   padding: 0;
 }
@@ -597,5 +574,4 @@ blockquote blockquote blockquote blockquote {
     width: 100%;
     box-sizing: border-box;
   }
-  
 }

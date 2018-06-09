@@ -1,13 +1,36 @@
+.site-header, .breadcrumb, .main, .site-footer {
+  max-width: 700px;
+}
 
-/* .about {
-    text-align: left;
-  }
+body {
+  font-family: "Roboto", sans-serif;
+}
 
+h1, h2, h3, h4, h5, h6, p, a {
+  font-weight: 300 !important;
+}
 
-.about .author-name {
-    text-align: center;
-  }
-
-.about .article-title {
+.projects, .reading-list {
+  width: 49%;
+  display: inline-block;
+  vertical-align: top;
   text-align: center;
-} */
+  list-style: none;
+}
+
+.about-list {
+  list-style-type: none !important;
+  padding-left:0px;
+}
+
+/* Mobile */
+@media screen and (max-width: 768px) {
+  .projects, .reading-list {
+    width: 100%;
+    display: block;
+  }
+}
+
+.author-social  {
+  font-size: 30px;
+}

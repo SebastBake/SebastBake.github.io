@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on sebastbake</title>
-    <link>http://sebastbake.github.io/categories/</link>
-    <description>Recent content in Categories on sebastbake</description>
+    <title>Categories on SebastBake</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on SebastBake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2018 Sebastian Baker</copyright>
+    <copyright>&amp;copy; Copyright 2017 Sebastian Baker</copyright>
     
-	<atom:link href="http://sebastbake.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sebastbake</title>
-    <link>http://sebastbake.github.io/archives/</link>
-    <description>Recent content on sebastbake</description>
+    <title>Archives on SebastBake</title>
+    <link>/archives/</link>
+    <description>Recent content in Archives on SebastBake</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright 2018 Sebastian Baker</copyright>
+    <copyright>&amp;copy; Copyright 2017 Sebastian Baker</copyright>
     
-	<atom:link href="http://sebastbake.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/archives/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
